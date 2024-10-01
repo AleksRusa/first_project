@@ -1,0 +1,6 @@
+g, l = input().split()
+g = int(g)
+l = int(l)
+print(l-1, g-1)
+
+

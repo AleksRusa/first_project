@@ -1,0 +1,9 @@
+key1, key2 = int(input()), int(input())
+
+if key1%2 == 0:
+    print("yes")
+else:
+    if key2 % 2 == 0:
+        print('no')
+    else:
+        print("yes")
