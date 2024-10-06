@@ -1,5 +1,5 @@
-my_project_python\
-timus\
-.env\
-.venv\
-_pycache\
+.venv
+.env
+_pycache_
+timus
+my_projects_python

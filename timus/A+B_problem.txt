@@ -1,4 +1,0 @@
-s = input()
-nums = s.split()
-sum = int(nums[0]) + int(nums[1])
-print(sum)

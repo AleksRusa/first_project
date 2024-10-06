@@ -1,8 +1,0 @@
-from math import ceil
-n, k = [int(i) for i in input().split()]
-sides = n*2
-if sides<=k:
-    print(2)
-else:
-    minutes = ceil(sides/k)
-    print(minutes)
